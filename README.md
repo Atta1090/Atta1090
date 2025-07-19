@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Attaullah</h1>
-<h3 align="center">A passionate full stack, Machine Learning, Deep Learning, Data Science Developer from Pakistan</h3>
+<h3 align="center">A passionate Full stack, Machine Learning, Deep Learning, Data Science Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atta1090&label=Profile%20views&color=0e75b6&style=flat" alt="atta1090" /> </p>
 
